@@ -1,0 +1,6 @@
+{
+  "githubSecret": "24188b6a657a8fe30cf6d881fc9d484198bc30c9",
+  "githubClientId": "2e3ae16fcb87457821d5",
+  "MONGO_URL": "mongodb+srv://devconnector:devconnector@cluster0.vicqy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
+}
